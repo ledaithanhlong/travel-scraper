@@ -1,0 +1,4 @@
+node_modules/
+credentials.json
+scraper.log
+debug_listing_*.html
